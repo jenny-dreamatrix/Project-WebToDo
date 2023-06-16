@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2rem;
+}
+
+.add-input {
+  width: 50rem;
+}
+
+input[type="submit"] {
+  height: 2.5rem;
+  width: 10rem;
+  cursor: pointer;
+}
